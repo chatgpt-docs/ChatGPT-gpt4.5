@@ -1,13 +1,13 @@
 # ChatGPT 中文版：一分钟带你了解如何在国内轻松使用ChatGPT！
 
->更新时间: 2025-03-16
+>更新时间: 2025-05-27
 
 **想全面掌握 ChatGPT 中文版？无需翻墙也能畅享 GPT-4 的强大功能与多场景服务！**  
 
 本文将以科普的视角，详细解析 **ChatGPT 中文版的使用方法**，并推荐国内可用的 **ChatGPT 镜像网站** 和实用教程，让你快速上手，无论是学习、工作还是日常生活都能得心应手。
 
-ChatGPT 中文版入口：[蓝鲸AI  https://lanjing.ai](https://lanjing.ai)  
-ChatGPT 镜像网站：[一下AI  https://chat.yixiaai.com](https://chat.yixiaai.com)  
+ChatGPT 中文版入口：[蓝鲸AI  https://chat.lanjing.pro](https://chat.lanjing.pro)  
+ChatGPT 镜像网站：[一下AI  https://xsimplechat.com](https://xsimplechat.com)  
 
 ---
 
@@ -41,10 +41,8 @@ ChatGPT 镜像网站：[一下AI  https://chat.yixiaai.com](https://chat.yixiaai
 
 | 镜像名称      | 访问地址                                       | 支持版本        | 免费额度 | 注册方式    | 稳定性 | 特色功能         |
 |---------------|-----------------------------------------------|----------------|----------|------------|--------|-----------------|
-| **一下AI**   | [https://chat.yixiaai.com](https://chat.yixiaai.com) | GPT-4, GPT-3.5、GPT4.5、Claude、Grok、AI PPT等 | 有       | 邮箱注册   | 高     | 中文支持、绘图  |
-| **蓝鲸AI**     | [https://lanjing.ai](https://lanjing.ai)             | GPT-4, GPT-o1、GPT o3 mini等  | 有       | 邮箱注册   | 高     | 语音对话、视频  |
-| **Lify AI**  | [https://chat.lify.vip](https://chat.lify.vip)     | GPT-4, GPT-3.5、Grok、Claude | 有       | 邮箱注册   | 高     | 快速稳定、API   |
-| **ChatGPT中文版edge插件**  | [ChatGPT中文版edge浏览器插件](https://microsoftedge.microsoft.com/addons/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88%E4%B8%AD%E6%96%87%E7%95%8C%E9%9D%A2%E3%80%81%E5%AF%B9%E8%AF%9D%E3%80%81%E5%86%99%E4%BD%9C%E3%80%81%E7%BB%98%E7%94%BB/lmlenkgcieicbnpobkhmpcgmamahahil) | GPT-3.5       | 有       | 邮箱注册   | 中     | 操作简单        |
+| **一下AI**   | [https://xsimplechat.com](https://xsimplechat.com) | GPT-4, GPT-3.5、GPT4.5、Claude、Grok、AI PPT等 | 有       | 邮箱注册   | 高     | 中文支持、绘图  |
+| **蓝鲸AI**     | [https://chat.lanjing.pro](https://chat.lanjing.pro)             | GPT-4, GPT-o1、GPT o3 mini等  | 有       | 邮箱注册   | 高     | 语音对话、视频  |
 
 这些镜像网站让 ChatGPT 的使用门槛大大降低，关键词如 **ChatGPT** 和 **ChatGPT 中文版** 将帮助你轻松找到它们。
 
@@ -67,7 +65,7 @@ ChatGPT 镜像网站：[一下AI  https://chat.yixiaai.com](https://chat.yixiaai
 ## 如何快速上手 ChatGPT 中文版
 
 ### **通过镜像网站开启智能之旅**
-1. **挑选镜像站点**：例如 [蓝鲸AI https://lanjing.ai](https://lanjing.ai)。  
+1. **挑选镜像站点**：例如 [蓝鲸AI https://chat.lanjing.pro](https://chat.lanjing.pro)。  
 2. **注册或直接体验**：  
    - 用邮箱快速注册，设置密码即可。  
    - 部分站点无需注册，直接输入问题开始对话。  
