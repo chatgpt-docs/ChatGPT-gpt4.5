@@ -1,6 +1,6 @@
 # ChatGPT 中文版：一分钟带你了解如何在国内轻松使用ChatGPT！
 
->更新时间: 2025-07-29 
+>更新时间: 2025-09-09 
 
 **想全面掌握 ChatGPT 中文版？无需翻墙也能畅享 GPT-4 的强大功能与多场景服务！**  
 
@@ -41,8 +41,8 @@ ChatGPT 镜像网站：[一下AI  https://xsimplechat.com](https://xsimplechat.c
 
 | 镜像名称      | 访问地址                                       | 支持版本        | 免费额度 | 注册方式    | 稳定性 | 特色功能         |
 |---------------|-----------------------------------------------|----------------|----------|------------|--------|-----------------|
-| **一下AI**   | [https://xsimplechat.com](https://xsimplechat.com) | GPT-4, GPT-3.5、GPT4.5、Claude、Grok、AI PPT等 | 有       | 邮箱注册   | 高     | 中文支持、绘图  |
-| **蓝鲸AI**     | [https://chat.lanjingai.org](https://chat.lanjingai.org)             | GPT-4, GPT-o1、GPT o3 mini等  | 有       | 邮箱注册   | 高     | 语音对话、视频  |
+| **一下AI**   | [https://xsimplechat.com](https://xsimplechat.com) | GPT-5、GPT-4, GPT-3.5、GPT4.5、Claude、Grok、AI PPT等 | 有       | 邮箱注册   | 高     | 中文支持、绘图  |
+| **蓝鲸AI**     | [https://chat.lanjingai.org](https://chat.lanjingai.org)             | GPT-5、GPT-4, GPT-o1、GPT o3 mini等  | 有       | 邮箱注册   | 高     | 语音对话、视频  |
 
 这些镜像网站让 ChatGPT 的使用门槛大大降低，关键词如 **ChatGPT** 和 **ChatGPT 中文版** 将帮助你轻松找到它们。
 
