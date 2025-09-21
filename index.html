@@ -6,7 +6,7 @@
     <title>ChatGPT中文版 - GPT-5使用指南及镜像网站推荐【2025年9月更新】</title>
     <meta name="description" content="ChatGPT中文版基于GPT技术优化，支持GPT-5、4o、o1，无需翻墙即可使用。本站提供chat gpt镜像网站推荐及教程，助您快速上手！">
     <meta name="keywords" content="ChatGPT, GPT, ChatGPT中文版, chat gpt, GPT-5, GPT-4o, GPT-o1, ChatGPT镜像网站, ChatGPT免费, 国内ChatGPT, 人工智能, DeepSeek R1">
-    <meta name="date" content="2025-09-09"> <!-- 新增的更新日期 meta 标签 -->
+    <meta name="date" content="" id="metaDate"> <!-- Dynamic date meta tag -->
     <meta property="og:title" content="ChatGPT中文版 - GPT-5使用指南及镜像网站【2025年9月更新】">
     <meta property="og:description" content="探索ChatGPT中文版，支持GPT-4.5、4o、o1等版本，无需翻墙即可体验chat gpt。提供镜像网站推荐及使用教程，快速开启智能对话！">
     <meta property="og:url" content="https://chatgpt-docs.github.io/ChatGPT-gpt4.5">
@@ -120,7 +120,7 @@
             <h1>ChatGPT中文版 - GPT-5全新体验</h1>
             <p>年最新ChatGPT中文版，无需翻墙即可使用GPT-5、GPT-4o、GPT-o1及DeepSeek R1。</p>
             <a href="https://xsimplechat.com" class="button">立即体验ChatGPT中文版</a>
-            <p>更新日期：<strong>2025年9月09日</strong></p>
+            <p>更新日期：<strong><span id="displayDate"></span></strong></p>
         </header>
 
         <section class="markdown-content">
@@ -192,5 +192,28 @@
     <footer>
         <p>© 2025 ChatGPT中文版指南 - 助力您掌握GPT技术</p>
     </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const now = new Date();
+            const year = now.getFullYear();
+            const month = String(now.getMonth() + 1).padStart(2, '0');
+            const day = String(now.getDate()).padStart(2, '0');
+
+            // Format for display (YYYY年MM月DD日)
+            const displayFormat = `${year}年${month}月${day}日`;
+            const displayElement = document.getElementById('displayDate');
+            if (displayElement) {
+                displayElement.textContent = displayFormat;
+            }
+
+            // Format for meta tag (YYYY-MM-DD)
+            const metaFormat = `${year}-${month}-${day}`;
+            const metaElement = document.getElementById('metaDate');
+            if (metaElement) {
+                metaElement.setAttribute('content', metaFormat);
+            }
+        });
+    </script>
 </body>
 </html>
